@@ -1,0 +1,35 @@
+{
+  "__version__": "1.0.0",
+  "engine": {
+    "modules": {
+      "gfx-webgl": true,
+      "gfx-webgl2": true,
+      "3d": false,
+      "2d": true,
+      "ui": true,
+      "particle": false,
+      "physics": false,
+      "physics-2d": false,
+      "animation": true,
+      "skeletal-animation": false,
+      "audio": false,
+      "video": false,
+      "webview": false,
+      "tween": true,
+      "terrain": false,
+      "tiled-map": false,
+      "spine": false,
+      "dragon-bones": false,
+      "marionette": false,
+      "procedural-animation": false
+    },
+    "includeModules": [
+      "2d",
+      "ui",
+      "animation",
+      "tween",
+      "gfx-webgl",
+      "gfx-webgl2"
+    ]
+  }
+}
