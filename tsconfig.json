@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "lib": ["ES2015", "DOM"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./temp/declarations",
+    "baseUrl": "./",
+    "paths": {
+      "cc": ["./temp/declarations/cc.d.ts"]
+    },
+    "types": []
+  },
+  "include": [
+    "assets/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "profiles"
+  ]
+}

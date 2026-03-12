@@ -1,0 +1,11 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "1V1 连线桌游",
+  "id": "1v1-link-game",
+  "version": "1.0.0",
+  "description": "一款策略对战卡牌游戏",
+  "creator": {
+    "version": "3.8.5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ver": "1.2.0",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "game-manager-ts-001",
+  "files": [
+    ".json",
+    ".ts"
+  ],
+  "subMetas": {},
+  "userData": {}
+}
